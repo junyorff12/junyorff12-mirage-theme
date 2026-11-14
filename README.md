@@ -1,6 +1,13 @@
-# junyorff12 Mirage
+# junyorff12 Mirage Themes
 
-A dark theme for Visual Studio Code, inspired by Ayu Mirage.
+Dark and light Visual Studio Code themes inspired by Ayu Mirage.
+
+## Themes
+
+- **junyorff12 Mirage** — dark theme with `#30323F` backgrounds and `#FFA659`
+  button backgrounds.
+- **junyorff12 Mirage Light** — warm light theme with `#F7F4ED` editor
+  backgrounds, `#EEEAE2` surfaces, and deep amber accents.
 
 ## Attribution and license
 
@@ -12,7 +19,8 @@ copyright and license notice are preserved in [LICENSE.txt](./LICENSE.txt).
 ## Use
 
 Open this folder as a VS Code extension project and launch the Extension
-Development Host. Select **junyorff12 Mirage** from the Color Theme picker.
+Development Host. Select **junyorff12 Mirage** or **junyorff12 Mirage Light**
+from the Color Theme picker.
 
 To share the theme, publish this folder in a public GitHub repository. The
 `publisher` value in `package.json` is `junyorff12`; publishing to the VS Code
