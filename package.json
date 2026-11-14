@@ -1,0 +1,23 @@
+{
+  "name": "junyorff12-mirage-theme",
+  "displayName": "junyorff12 Mirage",
+  "description": "A dark VS Code theme adapted from Ayu Mirage with a lighter #30323F background.",
+  "version": "1.0.0",
+  "publisher": "junyorff12",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "junyorff12 Mirage",
+        "uiTheme": "vs-dark",
+        "path": "./themes/junyorff12-mirage-color-theme.json"
+      }
+    ]
+  }
+}
