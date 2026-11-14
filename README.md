@@ -17,3 +17,5 @@ Development Host. Select **junyorff12 Mirage** from the Color Theme picker.
 To share the theme, publish this folder in a public GitHub repository. The
 `publisher` value in `package.json` is `junyorff12`; publishing to the VS Code
 Marketplace additionally requires a matching Marketplace publisher account.
+
+[![Powered by GitHub Copilot](https://img.shields.io/badge/Powered%20by-GitHub%20Copilot-000?logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
