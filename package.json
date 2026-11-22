@@ -2,8 +2,13 @@
   "name": "junyorff12-mirage-theme",
   "displayName": "junyorff12 Mirage Themes",
   "description": "Dark and light Visual Studio Code themes adapted from Ayu Mirage.",
+  "icon": "icon.png",
   "version": "1.1.0",
   "publisher": "junyorff12",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/junyorff12/junyorff12-mirage-theme"
+  },
   "license": "MIT",
   "engines": {
     "vscode": "^1.70.0"
